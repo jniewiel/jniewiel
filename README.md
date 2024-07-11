@@ -15,9 +15,9 @@ Hello! I'm Jan, a passionate full stack developer based in Chicago, IL. I'm curr
 ## 🚀 Projects
 
 ### SimilarSongs
-•	Developed a dynamic web application using Ruby on Rails that allows users to discover similar songs based on their input.
-•	Designed and built a responsive frontend using HTML and CSS, ensuring a seamless user experience across devices.
-•	Deployed the application on Render, setting up continuous integration and deployment pipelines.
+-	Developed a dynamic web application using Ruby on Rails that allows users to discover similar songs based on their input.
+-	Designed and built a responsive frontend using HTML and CSS, ensuring a seamless user experience across devices.
+-	Deployed the application on Render, setting up continuous integration and deployment pipelines.
 
 ### KickGalaxy
 An e-commerce website for sneakers, showcasing frontend development skills.
@@ -26,10 +26,10 @@ An e-commerce website for sneakers, showcasing frontend development skills.
 
 ## 🎓 Education
 
-- **Discovery Partners Institute - Chicago, IL**
-  Software Developer Apprentice Trainee (May 2024 - Present)
-- **Northeastern Illinois University - Chicago, IL**
-  Bachelor of Science in Computer Science
+**Discovery Partners Institute - Chicago, IL**
+- Software Developer Apprentice Trainee (May 2024 - Present)
+**Northeastern Illinois University - Chicago, IL**
+- Bachelor of Science in Computer Science
 
 ## 💼 Professional Background
 
