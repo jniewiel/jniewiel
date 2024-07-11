@@ -1,4 +1,4 @@
-# Jan Niewielski
+# Jan Niewielski 
 
 ## 👨‍💻 About Me
 
@@ -28,6 +28,7 @@ An e-commerce website for sneakers, showcasing frontend development skills.
 
 **Discovery Partners Institute - Chicago, IL**
 - Software Developer Apprentice Trainee (May 2024 - Present)
+
 **Northeastern Illinois University - Chicago, IL**
 - Bachelor of Science in Computer Science
 
