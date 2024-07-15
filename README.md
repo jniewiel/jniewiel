@@ -14,12 +14,12 @@ Hello! I'm Jan, a passionate full stack developer based in Chicago, IL. I'm curr
 
 ## 🚀 Projects
 
-### <a href="https://github.com/jniewiel/KickGalaxy">SimilarSongs</a>
+### <a href="https://github.com/jniewiel/similarsongs">SimilarSongs</a>
 -	Developed a dynamic web application using Ruby on Rails that allows users to discover similar songs based on their input.
 -	Designed and built a responsive frontend using HTML and CSS, ensuring a seamless user experience across devices.
 -	Deployed the application on Render, setting up continuous integration and deployment pipelines.
 
-### <a href="https://github.com/jniewiel/similarsongs">KickGalaxy</a>
+### <a href="https://github.com/jniewiel/KickGalaxy">KickGalaxy</a>
 An e-commerce website for sneakers, showcasing frontend development skills.
 - Built with HTML, CSS, and JavaScript
 - Features responsive design and dynamic content
