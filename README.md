@@ -20,9 +20,9 @@ Hello! I'm Jan, a passionate full stack developer based in Chicago, IL. I'm curr
 -	Deployed the application on Render, setting up continuous integration and deployment pipelines.
 
 ### <a href="https://github.com/jniewiel/KickGalaxy">KickGalaxy</a>
-An e-commerce website for sneakers, showcasing frontend development skills.
-- Built with HTML, CSS, and JavaScript
-- Features responsive design and dynamic content
+-	Built a fully functional mock e-commerce website inspired by Foot Locker.
+-	Implemented features like product browsing, filtering, and a shopping cart to simulate a real-world shopping experience.
+-	Utilized responsive design principles to ensure the website adapts seamlessly to various screen sizes and devices.
 
 ## 🎓 Education
 
