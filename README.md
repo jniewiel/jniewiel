@@ -1,3 +1,6 @@
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jniewiel&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
 # Jan Niewielski 
 
 ## 👨‍💻 About Me
@@ -6,11 +9,33 @@ Hello! I'm Jan, a passionate full stack developer based in Chicago, IL. I'm curr
 
 ## 🛠 Skills
 
-- **Front-end:** HTML, CSS, JavaScript
-- **Back-end:** Ruby on Rails, Java, Python
-- **Database:** PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Render
-- **Concepts:** RESTful APIs, Object-Oriented Programming, Agile Methodology
+### Front-end:
+
+| HTML5 | CSS3 | JavaScript |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5"  alt="HTML5" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3"  alt="CSS3" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
+### Back-end:
+
+| Ruby | Ruby on Rails | Java | Python |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
+
+### Database: 
+
+| PostgreSQL |
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> |
+
+
+### Tools: 
+
+| Git | GitHub | VS Code | Render |
+|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/> | <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay" title="Render" alt="Render" width="55" height="55"/> |
+
+### Concepts: 
+RESTful APIs, Object-Oriented Programming, Agile Methodology
 
 ## 🚀 Projects
 
@@ -50,3 +75,16 @@ Fluent in English and Polish
 - Portfolio: [Jan's Portfolio](https://itsjan.webflow.io/)
 
 I'm always excited to collaborate on new projects or discuss opportunities in tech. Feel free to reach out!
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=jniewiel&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jniewiel&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=jniewiel&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jniewiel&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
