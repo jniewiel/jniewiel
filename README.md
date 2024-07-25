@@ -7,7 +7,8 @@ original link: (https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jniewiel&title=MultipleLang,Repositories,Reviews,Experience,Commits,MultipleLang,PullRequest,Stars,Followers&theme=juicyfresh&margin-w=13&no-bg=true&no-frame=true&rank=SECRET,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Jan Niewielski 
+# Jan Niewielski
+<img src="https://komarev.com/ghpvc/?username=jniewiel&style=for-the-badge&color=191970" alt=""/>
 
 ## 👨‍💻 About Me
 
@@ -81,9 +82,7 @@ Fluent in English and Polish
 
 I'm always excited to collaborate on new projects or discuss opportunities in tech. Feel free to reach out!
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=jniewiel&style=for-the-badge&color=blue" alt=""/>
-</div>
+## 😎 Analytics
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=jniewiel&theme=chartreuse-dark&hide_border=true&border_radius=5&card_width=800">
